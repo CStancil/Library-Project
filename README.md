@@ -1,2 +1,2 @@
 # Library-Project
-It's a library
+This is a library of functions used with a database of best selling video games. Proper credit is in code.
