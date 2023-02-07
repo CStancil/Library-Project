@@ -42,7 +42,7 @@ the function *mostSalesInPlatform ()* takes a game platform as a parameter and r
 
 ## -
 
-the function *totalSalesPerPlatform ()* takes a game platform as a parameter and returns the game with the highest number of sales
+the function *totalSalesPerPlatform ()* takes a platform as a parameter and returns the total sales of games from that platform
 
 @param plat {string} - the desired platform
 
